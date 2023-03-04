@@ -1,7 +1,7 @@
 # Black-Friday-Sale-Analysis
 Analysis of sale on different factors
 
-# Gender analysis
+## Gender analysis
 
 75.4% male and 24.6% female
 Out of total money spent 76.79% of money is spent by male 
