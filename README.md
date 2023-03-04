@@ -22,7 +22,7 @@ maximum products are purchased by Unmarried Male
 
 ### City Analysis
 
-maximum products sold  in city B '\n'
+maximum products sold  in city B 
 maximum products sold in city B max purchased by age category '26-35' 
 male from city B are highest product buyers
 
